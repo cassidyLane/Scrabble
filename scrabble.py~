@@ -1,6 +1,4 @@
 #Scrabble AI                                                                   
-#Cassidy Wichowsky and Ashley Hammel
-#For IUB CSCI-C290
 import random
 import string
 word_list = []
